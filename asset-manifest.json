@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MappingColorReact/static/css/main.9e3ccaf8.css",
+    "main.js": "/MappingColorReact/static/js/main.332eaa2b.js",
+    "index.html": "/MappingColorReact/index.html",
+    "main.9e3ccaf8.css.map": "/MappingColorReact/static/css/main.9e3ccaf8.css.map",
+    "main.332eaa2b.js.map": "/MappingColorReact/static/js/main.332eaa2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e3ccaf8.css",
+    "static/js/main.332eaa2b.js"
+  ]
+}
